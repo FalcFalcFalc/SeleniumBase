@@ -23,7 +23,7 @@ public class SauceDemo {
 
     @BeforeTest
     void setUp(){
-        String chromeDriverDirectory =  "C:\\Users\\juani\\Documents\\Selenium\\Project1\\Project1\\chromedriver.exe";
+        String chromeDriverDirectory =  "C:\\Users\\juani\\Documents\\GitHub\\SeleniumBase\\chromedriver.exe";
         
         //Disculpen por haber hardcodeado la direccion del chrome driver, pero sinceramente
         //no encontré una forma más prolija de resolver este problema, para ejecutarlo y probar
